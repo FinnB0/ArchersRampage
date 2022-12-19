@@ -96,6 +96,10 @@
 				"HoloLens",
 				"Android"
 			]
+		},
+		{
+			"Name": "EpicLeaderboard",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
