@@ -99,7 +99,7 @@
 		},
 		{
 			"Name": "EpicLeaderboard",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "PlayFab",
